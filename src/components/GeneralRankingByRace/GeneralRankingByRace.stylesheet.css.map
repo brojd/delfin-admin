@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,4BAA6B;EAC3B,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,aAAa;;AAGxB,qBAAsB;EACpB,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,wBAAyB;EACvB,aAAa,EAAE,iBAAiB;;AAGlC,0BAA2B;EACzB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;;AAGhB,gCAAiC;EAC/B,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO",
+"sources": ["GeneralRankingByRace.stylesheet.scss"],
+"names": [],
+"file": "GeneralRankingByRace.stylesheet.css"
+}

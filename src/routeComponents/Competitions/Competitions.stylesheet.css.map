@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAc;EACZ,WAAW,EAAE,IAAI",
+"sources": ["Competitions.stylesheet.scss"],
+"names": [],
+"file": "Competitions.stylesheet.css"
+}

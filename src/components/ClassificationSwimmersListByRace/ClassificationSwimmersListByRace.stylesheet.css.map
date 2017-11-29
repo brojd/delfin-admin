@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wCAAyC;EACvC,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,aAAa;;AAGxB,iCAAkC;EAChC,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,oCAAqC;EACnC,aAAa,EAAE,iBAAiB;;AAGlC,sCAAuC;EACrC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;;AAGhB,4CAA6C;EAC3C,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO",
+"sources": ["ClassificationSwimmersList.stylesheet.scss"],
+"names": [],
+"file": "ClassificationSwimmersList.stylesheet.css"
+}

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,wBAAyB;EACvB,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,aAAa;;AAGxB,iBAAkB;EAChB,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,oBAAqB;EACnB,aAAa,EAAE,iBAAiB;;AAGlC,sBAAuB;EACrB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;;AAGhB,4BAA6B;EAC3B,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO",
+"sources": ["RaceSwimmersList.stylesheet.scss"],
+"names": [],
+"file": "RaceSwimmersList.stylesheet.css"
+}

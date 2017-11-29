@@ -1,0 +1,47 @@
+.Header {
+  height: 60px;
+  background: white;
+}
+
+.Header__heading {
+  height: 60px;
+  line-height: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.logoWrapper {
+  height: inherit;
+  line-height: 60px;
+  text-align: center;
+  vertical-align: middle;
+  background: #009ee4;
+  display: inline-block;
+}
+
+.companyName {
+  height: inherit;
+  line-height: 60px;
+  color: #b1c3c3;
+  font-size: 12px;
+  margin-right: 20px;
+}
+
+.logoWrapper_logo {
+  width: 50px;
+  height: auto;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.log {
+  color: #889595;
+  height: inherit;
+  line-height: 60px;
+  margin-right: 20px;
+}
+
+.log:hover {
+  color: #158bbf;
+  text-decoration: none;
+}

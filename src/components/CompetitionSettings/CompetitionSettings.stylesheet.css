@@ -1,0 +1,29 @@
+.CompetitionSettingsWrapper {
+  margin-bottom: 60px;
+  padding: 3px 0 3px 3px; }
+
+.CompetitionSettings {
+  background: white;
+  box-shadow: 0 0 1px 0px #c5c5c5;
+  border-radius: 2px; }
+
+.CompetitionSettings_tr {
+  border-bottom: 1px solid #eaeaea; }
+
+.CompetitionSettings_icon {
+  font-size: 18px;
+  color: #616161; }
+
+.CompetitionSettings_icon:hover {
+  color: #353535;
+  cursor: pointer; }
+
+.saveButton {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background: #d4d5e2; }
+
+.saveButton:hover {
+  background: #b6b7c3; }
+
+/*# sourceMappingURL=CompetitionSettings.stylesheet.css.map */

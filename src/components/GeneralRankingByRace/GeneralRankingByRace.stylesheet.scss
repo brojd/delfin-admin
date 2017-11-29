@@ -1,0 +1,26 @@
+.GeneralRankingByRaceWrapper {
+  max-height: 500px;
+  margin-bottom: 60px;
+  overflow-y: scroll;
+  padding: 3px 0 3px 3px;
+}
+
+.GeneralRankingByRace {
+  background: white;
+  box-shadow: 0 0 1px 0px rgb(197, 197, 197);
+  border-radius: 2px;
+}
+
+.GeneralRankingByRace_tr {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.GeneralRankingByRace_icon {
+  font-size: 18px;
+  color: #616161;
+}
+
+.GeneralRankingByRace_icon:hover {
+  color: #353535;
+  cursor: pointer;
+}

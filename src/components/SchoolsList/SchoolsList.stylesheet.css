@@ -1,0 +1,17 @@
+.SchoolsList {
+  background: white;
+  box-shadow: 0 0 1px 0px #c5c5c5;
+  border-radius: 2px; }
+
+.SchoolsList_tr {
+  border-bottom: 1px solid #eaeaea; }
+
+.SchoolsList_icon {
+  font-size: 18px;
+  color: #616161; }
+
+.SchoolsList_icon:hover {
+  color: #353535;
+  cursor: pointer; }
+
+/*# sourceMappingURL=SchoolsList.stylesheet.css.map */

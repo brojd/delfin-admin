@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,SAAS;EACjB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,MAAM;EACf,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,OAAO;EACd,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,iBAAiB;EACzB,WAAW,EAAE,GAAG",
+"sources": ["Records.stylesheet.scss"],
+"names": [],
+"file": "Records.stylesheet.css"
+}

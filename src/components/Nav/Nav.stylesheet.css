@@ -1,0 +1,39 @@
+.NavWrapper {
+  left: 0;
+  position: absolute;
+  overflow-y: visible; }
+
+.Nav {
+  padding-bottom: 1200px;
+  padding-top: 60px;
+  background: #282c37;
+  list-style-type: none; }
+
+.Nav_listElem {
+  height: 40px;
+  line-height: 40px;
+  margin-bottom: 15px;
+  padding-bottom: 5px; }
+
+.Nav__link {
+  color: #485c65;
+  position: relative;
+  padding-left: 25px; }
+
+.activeLink {
+  background: #274450;
+  border-left: 3px solid #038ac7;
+  color: #d8d8d8; }
+
+.Nav_label {
+  font-size: 14px;
+  font-weight: 600;
+  position: absolute;
+  left: 80px; }
+
+.Nav__link:hover {
+  background: #1f2c32;
+  border-left: 3px solid #005c86;
+  color: #d8d8d8; }
+
+/*# sourceMappingURL=Nav.stylesheet.css.map */

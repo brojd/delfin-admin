@@ -1,0 +1,10 @@
+.loginButton {
+  box-shadow: 0 0 1px 0 #adadad;
+  border-radius: 2px;
+  color: #5f5f5f;
+  margin-top: 15px; }
+
+.loginButton:hover {
+  background: #d5d6e4; }
+
+/*# sourceMappingURL=Login.stylesheet.css.map */

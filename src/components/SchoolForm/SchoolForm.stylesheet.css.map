@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACV,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,qBAAsB;EACpB,UAAU,EAAE,iBAAiB;EAC7B,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,OAAO;;AAGhB,2BAA4B;EAC1B,UAAU,EAAE,OAAO",
+"sources": ["SchoolForm.stylesheet.scss"],
+"names": [],
+"file": "SchoolForm.stylesheet.css"
+}

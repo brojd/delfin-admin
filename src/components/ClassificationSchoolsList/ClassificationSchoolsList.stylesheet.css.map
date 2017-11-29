@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iCAAkC;EAChC,UAAU,EAAE,KAAK;EACjB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,aAAa;;AAGxB,0BAA2B;EACzB,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,6BAA8B;EAC5B,aAAa,EAAE,iBAAiB;;AAGlC,+BAAgC;EAC9B,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;;AAGhB,qCAAsC;EACpC,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO",
+"sources": ["ClassificationSchoolsList.stylesheet.scss"],
+"names": [],
+"file": "ClassificationSchoolsList.stylesheet.css"
+}

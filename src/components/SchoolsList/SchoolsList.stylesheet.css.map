@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,YAAa;EACX,UAAU,EAAE,KAAK;EACjB,UAAU,EAAE,mBAA8B;EAC1C,aAAa,EAAE,GAAG;;AAGpB,eAAgB;EACd,aAAa,EAAE,iBAAiB;;AAGlC,iBAAkB;EAChB,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,OAAO;;AAGhB,uBAAwB;EACtB,KAAK,EAAE,OAAO;EACd,MAAM,EAAE,OAAO",
+"sources": ["SchoolsList.stylesheet.scss"],
+"names": [],
+"file": "SchoolsList.stylesheet.css"
+}

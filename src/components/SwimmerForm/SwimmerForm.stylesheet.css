@@ -1,0 +1,17 @@
+.SwimmerForm {
+  background: white;
+  padding: 30px 40px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  box-shadow: 0 0 1px 0px #c5c5c5;
+  border-radius: 2px; }
+
+.SwimmerForm_addButton {
+  box-shadow: 0 0 1px 0 #adadad;
+  border-radius: 2px;
+  color: #5f5f5f; }
+
+.SwimmerForm_addButton:hover {
+  background: #b5cdff; }
+
+/*# sourceMappingURL=SwimmerForm.stylesheet.css.map */
